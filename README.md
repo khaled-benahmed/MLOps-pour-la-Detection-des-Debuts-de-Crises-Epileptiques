@@ -1,4 +1,5 @@
-# Equipe: The Splinter Competition : Ai Night Challenge
+# Equipe: The Splinter
+# Competition : Ai Night Challenge
 
 ## Projet: MLOps pour la Détection des Débuts de Crises Épileptiques
 
